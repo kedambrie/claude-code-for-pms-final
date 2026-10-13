@@ -43,6 +43,17 @@ Meteor Mite is another of the four whose pings nearly vanished (rook-database).
 4. How are The Gale's callouts going? Is the exhaustion about volume or about the hours they land at?
 5. Is the quiet / on-fire split still happening, or has it eased since 4 Sep?
 
+## Added after re-reading the first round
+
+**Prompted vs unprompted.** In round one, some mentions only came after the interviewer asked. Aunt Dot's quiet weeks came after "weeks where it feels too quiet rather than too fast?" ("Now that you mention it"), and Halloran's callout mention came at the end of an "anything at all?" question. Kip's quiet/busy comparison, Ambrose's boot incident and Dot's lost race were volunteered. In round two:
+- Start open ("tell me about the last week or two of callouts") and note what they raise before any prompt.
+- Only then ask directly about quiet weeks and fast-vanishing callouts, and record which were prompted.
+- Ask Aunt Dot and Halloran to re-describe in their own words, with dates, before any prompt.
+
+**Race or sequence?** Handlers describe a race ("phone to stairs", "it went to somebody else"), but the glossary says a ping is offered to one responder at a time and passes on when missed or turned down.
+- Ask handlers: what do you see on the console when a callout is offered, and when it moves on? What tells you it has moved on?
+- Do not explain how pings work. Confirm the mechanism with Wen Li (see how-pings-are-ranked.md).
+
 ## What to do with the answers
 - Compare dates with the 12 Aug release and the weekly acceptance / missed-ping numbers.
 - Cross-check against Ravi's data asks (response times before 12 Aug for the four locked-out responders; last year's Aug-Sep).
