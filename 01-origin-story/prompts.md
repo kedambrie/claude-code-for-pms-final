@@ -24,6 +24,16 @@ prompt library built from your own questions.
 
 ### 1.
 
+Are there contradictory pieces of information across the files you read?
+
 ### 2.
 
+What details do you feel are missing / what additional information should I look for in order to understand the issue better?
+
 ### 3.
+
+Ho did you determine what was most important to include in the initial under 2 page limit summary?
+
+### 4.
+
+short written description of how pings get ranked
